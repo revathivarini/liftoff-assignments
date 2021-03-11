@@ -7,9 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+For this Liftoff project, I am trying to build an application called 'Health Nutrition Diet'.
+In this application where users can authenticate accounts and users can follow differnt options by taking the nutritious food diet or doing the exercise for fitness.
 ### Features
-Include Features here
+Register(By creating an account)
+Login(Sign up with Email and Password)
+Healthy Meals, Diet Plan, Watching Carbs and Fitness.
 ### Technologies
 Include Technologies here
 ### What I'll Have to Learn
